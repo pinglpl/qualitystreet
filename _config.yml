@@ -77,7 +77,7 @@ nav_sort: case_insensitive # default, equivalent to nil
 back_to_top: true
 back_to_top_text: "Haut de page"
 
-footer_content: "CC-BY-NC-SA 4.0 - Les portes logiques + PiNG 2020 - avec le thème <a href=\"https://github.com/pmarsceill/just-the-docs/">"Just the Docs".</a>"
+footer_content: "CC-BY-NC-SA 4.0 - Les portes logiques PiNG 2020 - Jekyll theme "just the docs"."
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
