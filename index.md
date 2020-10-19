@@ -1,8 +1,8 @@
 # base qualité partagée pour la formation professionnelle dans le secteur du numérique libre
 
-[Les Portes Logiques](http://www.lesporteslogiques.net/){: .btn .btn-purple }
+<a href="http://www.lesporteslogiques.net/" class="btn">Les portes Logiques</a>
+<a href="https://www.pingbase.net/" class="btn">PiNG</a>
 
-[PiNG](https://www.pingbase.net/){: .btn .btn-purple }
 
 ---
 
