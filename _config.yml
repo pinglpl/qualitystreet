@@ -1,13 +1,12 @@
 title: "quality street"
-description: base qualité partagée
+description: "base qualité partagée"
 baseurl: "/home" # the subpath of your site, e.g. /blog
 url: "https://pinglpl.github.io/qualitystreet/" # the base hostname & protocol for your site, e.g. http://example.com
 theme: pmarsceill/just-the-docs
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
-, "docs/tests/"
-]
+, "docs/tests/"]
 
 # Regression tests
 # By default, the pages in /docs/tests are excluded when the ste is built.
