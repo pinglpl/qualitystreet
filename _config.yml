@@ -1,3 +1,8 @@
 
 title: Quality street
 remote_theme: pmarsceill/just-the-docs
+
+title: Just the Docs
+description: base qualité partagée
+baseurl: "/qualitystreet" # the subpath of your site, e.g. /blog
+url: "https://pinglpl.github.io/qualitystreet/" # the base hostname & protocol for your site, e.g. http://example.com
